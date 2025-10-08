@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alstryka
+- 👋 Hi, I’m @algjschwarz
 - 👀 I’m interested in AI and Game development
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on eh if you really want me for something...
