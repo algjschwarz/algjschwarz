@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @algjschwarz
-- 👀 I’m interested in AI and Game development
+- 👀 I’m interested in AI and Robots
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on eh if you really want me for something...
+- 💞️ I’m looking to collaborate on interesting stuff
 - 📫 How to reach me Bribes
-- 😄 Pronouns: Him/He // Yeah thats right I reversed it :P
-- ⚡ Fun fact: Chicken Nugget
+
 
 <!---
 alstryka/alstryka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
